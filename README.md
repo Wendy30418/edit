@@ -14,4 +14,5 @@
 | Left Aligned | Center Aligned | Right Aligned |
 | :----------- | :------------: | ------------: |
 | Kiddo        | Birth:0621     | lover:me      |
-| Conan        | Birth:0504     | 
+| Conan        | Birth:0504     | lover:Ran     |
+
