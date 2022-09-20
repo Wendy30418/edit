@@ -18,6 +18,6 @@
 ***
 ![Kiddo](kiddo.jpg "基德")
 ***
-- [ ] Kiddo
+- [x] Kiddo
 - [ ] Conan
-- [x] Akai
+- [ ] Akai
