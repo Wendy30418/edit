@@ -15,4 +15,5 @@
 | :----------- | :------------: | ------------: |
 | Kiddo        | Birth:0621     | lover:me      |
 | Conan        | Birth:0504     | lover:Ran     |
-
+***
+![Kiddo](kiddo.jpg "基德")
